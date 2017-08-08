@@ -275,6 +275,10 @@ p {
     margin-bottom: 0;
   }
 }
+
+.bold {
+  font-weight: bold;
+}
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
